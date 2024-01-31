@@ -1,5 +1,26 @@
+body{
+    background: #ecc3a6;
+}
+
 h1{
     text-align: center;
     display: block;
     font-weight: bold;
+}
+p{
+    text-align: center;
+}
+a{
+    color: green;
+}
+
+footer{
+    text-align: center;
+    display: block;
+}
+.croassaint-photo{
+    max-width: 20%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
 }
