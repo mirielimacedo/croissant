@@ -18,6 +18,9 @@ footer{
     text-align: center;
     display: block;
 }
+footer a{
+    margin: 0 10px;
+}
 .croassaint-photo{
     max-width: 20%;
     border-radius: 10px;
